@@ -2,7 +2,6 @@
 
 #### Introduction to Thread Synchronization 🧵
 - **What is it?** 🤔  
-  - The hardest and most crucial part of multi-threading.  
   - Necessary when multiple threads are competing to perform conflicting operations on a shared resource.
 
 - **Why needed?** 🛠  
