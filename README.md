@@ -23,6 +23,10 @@ This repository provides an in-depth guide on Mutex and Deadlock in multi-thread
 ## Getting Started 🚀
 Clone this repository to get started:
 
+```bash
+git clone https://github.com/ANSANJAY/Mutex-and-Deadlock
+
+```
 ## What is a Mutex? 🔐
 Mutex (Mutual Exclusion) is a program object that prevents simultaneous access to a shared resource.
 
