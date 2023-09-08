@@ -1,8 +1,8 @@
-## Deadlock Due to Inconsistent Locking Order of Mutexes: README.md Notes 📝
+## Deadlock Due to Inconsistent Locking Order of Mutexes 📝
 
 ### Overview 🌐
 
-The video lecture focuses on how inconsistent locking order of mutexes in multi-threaded programs can lead to a deadlock. Mutexes are used to avoid race conditions and ensure that resources are accessed by one thread at a time. Incorrect locking and unlocking can trigger deadlocks.
+This focuses on how inconsistent locking order of mutexes in multi-threaded programs can lead to a deadlock. Mutexes are used to avoid race conditions and ensure that resources are accessed by one thread at a time. Incorrect locking and unlocking can trigger deadlocks.
 
 ### Key Concepts 📚
 
