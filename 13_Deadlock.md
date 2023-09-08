@@ -2,7 +2,7 @@
 
 ### Overview 🌐
 
-This video provides an in-depth look at deadlocks in thread synchronization, a situation where all participating threads are blocked indefinitely, unable to make any progress. Once a deadlock occurs, the only way out is to terminate and restart the program.
+This note provides an in-depth look at deadlocks in thread synchronization, a situation where all participating threads are blocked indefinitely, unable to make any progress. Once a deadlock occurs, the only way out is to terminate and restart the program.
 
 ### Key Terminology 📚
 
@@ -33,12 +33,6 @@ Both threads are now in a deadlock situation, waiting indefinitely for the other
 
 - Mutex is a property of a resource, not of a thread.
 - Resources have their unique mutex, often compared to a key that locks or unlocks the resource (locker).
-
-### Upcoming 🌈
-
-The next video will cover the conditions required for a deadlock situation to occur.
-
----
 
 ### Interview Questions About this Topic 🤔💡
 
