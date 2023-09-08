@@ -2,7 +2,7 @@
 
 ### Overview 🌐
 
-The lecture video continues from the previous discussion on deadlocks and elaborates on the four necessary conditions that must be met for a deadlock to occur. These conditions are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.
+continues from the previous discussion on deadlocks and elaborates on the four necessary conditions that must be met for a deadlock to occur. These conditions are Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait.
 
 ### Key Terminology 📚
 
@@ -14,7 +14,7 @@ The lecture video continues from the previous discussion on deadlocks and elabor
 ### The Four Conditions 🚦
 
 1. **Mutual Exclusion**: The resources must be non-shareable; only one thread can access a given resource at a particular time. 
-    - 🌍 *Real-world example*: A home toilet, which can only be used by one person at a time.
+    - 🌍 *Real-world example*: A home washroom, which can only be used by one person at a time.
 
 2. **Hold and Wait**: A thread should already hold at least one resource and be waiting to acquire additional resources that are currently held by other threads.
     - 📊 *Example*: Thread T1 holds resource R2 and is waiting for resource R1.
